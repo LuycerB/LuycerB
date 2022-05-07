@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuycerBosire
-- 👀 I’m interested in building my data science portfolio, expanding my knowledge through continued learning and building my networks.
+- 👀 Let us interact and share knowledge
 - 🌱 Looking to achieve the influence of data in Finance
 
 <!---
