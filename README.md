@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuycerBosire
+- 👋 Luycer Bosire by virtue of introduction. A finance and technology enthusiast
 - 👀 Let us interact and share knowledge
 - 🌱 Looking to achieve the influence of data in Finance
 
